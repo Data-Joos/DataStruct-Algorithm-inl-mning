@@ -1,0 +1,15 @@
+Step 1: Declare three variables, num,num2 and i
+
+Step 2: Declare a string variable called string
+
+Step 3: OBTAIN num, num2 and str
+
+Step 4: IF num is equal num2
+    -DISPLAY "Numbers_are_equal"
+END IF
+
+Step 5: FOR each i less than num
+    -DISPLAY str
+END FOR
+
+Step 6: Stop

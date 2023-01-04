@@ -1,0 +1,6 @@
+Step 1: SET i and l to 0
+
+Step 2: FOR each i less than N^3
+    - INCREMENT l.
+
+Step 3: END FOR 

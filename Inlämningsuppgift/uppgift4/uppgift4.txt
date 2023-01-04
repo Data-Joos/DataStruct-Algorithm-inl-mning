@@ -1,0 +1,18 @@
+Step 1: Create a function that accepts a list.
+
+Step 2: Take a target number to find as input from the User.
+
+Step 3: Declare first and last column, and first and last row.
+
+Step 4: Create a while loop which lasts until first row > last row and first column > last column
+    -Calculate the middle row and middle column
+    -Start from the middle row and middle column and chech if equals number from input.else
+        -if so, return the position
+    -Check if on right row
+        -if not jump up/down until positioned in right row.
+    -Check if on right column
+        -if not, go to half of the columns in that row 
+Step 5:  If number from user does not exist in the list, return false.
+
+
+Finns även i kodfilen

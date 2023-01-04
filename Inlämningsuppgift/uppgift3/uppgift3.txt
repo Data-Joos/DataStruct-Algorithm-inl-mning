@@ -1,0 +1,9 @@
+Step 1: Create a function that accepts a list.
+
+Step 2: Create a new empty list.
+
+Step 3: Loop through the list
+    - check if each value is not in the new list
+        - if so, add it to the new list.
+        
+Step 4: return the list.
